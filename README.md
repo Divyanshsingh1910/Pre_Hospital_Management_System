@@ -1,6 +1,7 @@
 # PHMS: Pre-Hospital Management System with Real-Time Patient Monitoring
 
 ![Alt text](./img/Pipeline.png)
+
 *Picture: PHMS: proposed Pre-Hospital Management System(PHMS) Ecosystem*
 
 ## Content
@@ -46,6 +47,7 @@ audio and video processing libraries.
 of data from ambulances in transit to the hospital for efficient
 remote monitoring
 ![Alt text](./img/network.png)
+
 *Picture: Network Architecture to enable remote patient monitoring in the proposed PHMS*
 
 * Prediction Module
@@ -56,6 +58,7 @@ subpart involves enhancing the resolution of the video, while
 the second subpart involves predicting frames using the
 improved resolution video.
 ![Alt text](./img/prediction.png)
+
 *Picture: Prediction of compressed videos by RIFE and the proposed TESPCN model.*
 
 ## Dataset
