@@ -1,4 +1,4 @@
-# PHMS: Pre-Hospital Management System with Real-Time Patient Monitoring
+# Real-time Patient Monitoring in Teleambulance System
 
 ![Alt text](./img/Pipeline.png)
 
@@ -10,8 +10,7 @@
 ## Introduction
 This repository contains the code release of following paper
 
-> **Title** :  PHMS: Pre-Hospital Management System with
-Real-Time Patient Monitoring
+> **Title** :  Real-time Patient Monitoring in Teleambulance System
 
 > **Abstract** : Connected ambulances and hospitals with real-time
 patient monitoring can provide timely diagnoses and treatment to
