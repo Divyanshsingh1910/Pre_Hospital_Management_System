@@ -44,10 +44,10 @@ audio and video processing libraries.
 
 * Network Transfer Module
     - The Network Transfer Module deals with the transmission
-of data from ambulances in transit to the hospital for efficient
-remote monitoring
-![Alt text](./img/network.png)
-*Picture: Network Architecture to enable remote patient monitoring in the proposed PHMS*
+    of data from ambulances in transit to the hospital for efficient
+    remote monitoring
+    ![Alt text](./img/network.png) \
+    *Picture: Network Architecture to enable remote patient monitoring in the proposed PHMS*
 
 * Prediction Module
     - The prediction module is responsible for
